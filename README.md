@@ -1,16 +1,28 @@
-### Hi there 👋
+# AKING PAID TOLLS
 
-<!--
-**ZK-404/ZK-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AKING PAID TOLL
 
-Here are some ideas to get you started:
+[✓] PAID TOLLS 350
+[✓] FIRST GIVE APPROVE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pkg update
+
+pkg upgrade
+
+pkg install python -y
+
+pkg install python2 
+
+pkg inatall git
+
+pip inatall requests
+
+pip inatall Mechanize
+
+rm -rf AKING
+
+git clone https://github.com/AKING110/AKING
+
+cd AKING
+
+python Brand.py
