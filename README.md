@@ -19,10 +19,10 @@ pip inatall requests
 
 pip inatall Mechanize
 
-rm -rf AKING
+rm -rf ZK-404
 
 git clone https://github.com/ZK-404/ZK-404
 
-cd AKING
+cd ZK-404
 
 python Brand.py
